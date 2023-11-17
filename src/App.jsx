@@ -26,6 +26,7 @@ function App() {
     //update setSat by passing newly updated displaySats
     setSat(displaySats);
   };
+  
   return (
     <div>
       <Banner />
