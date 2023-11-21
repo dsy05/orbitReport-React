@@ -1,6 +1,7 @@
 import satData from "./satData";
 import "./styling.css";
 
+//props created in app filterByType, setSat, displaySats
 const Buttons = ({ filterByType, setSat, displaySats }) => {
   return (
     <div className="flex-container">
